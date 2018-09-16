@@ -1,6 +1,6 @@
 {
   "name": "redirect-form-data-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example: ``` const express = require('express') const { asyncExpress } = require('../async-express') const formidable = require('formidable') const { parseFormData, redirectFileParts } = require('../../util/handle-form-data')",
   "main": "handle-form-data.js",
   "scripts": {
