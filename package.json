@@ -1,0 +1,11 @@
+{
+  "name": "redirect-form-data-files",
+  "version": "1.0.0",
+  "description": "Example: ``` const express = require('express') const { asyncExpress } = require('../async-express') const formidable = require('formidable') const { parseFormData, redirectFileParts } = require('../../util/handle-form-data')",
+  "main": "handle-form-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
